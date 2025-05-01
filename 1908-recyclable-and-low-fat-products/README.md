@@ -40,7 +40,7 @@ Products table:
 | product_id  |
 +-------------+
 | 1           |
-| 3           |
+| 3            |
 +-------------+
 <strong>Explanation:</strong> Only products 1 and 3 are both low fat and recyclable.
 </pre>
