@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1664-find-users-with-valid-e-mails](https://github.com/Shakibbhai/MySql_practice-leetcode-50-problems/tree/master/1664-find-users-with-valid-e-mails) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Shakibbhai/MySql_practice-leetcode-50-problems/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/Shakibbhai/MySql_practice-leetcode-50-problems/tree/master/1827-invalid-tweets) |
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Shakibbhai/MySql_practice-leetcode-50-problems/tree/master/0283-move-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Shakibbhai/MySql_practice-leetcode-50-problems/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
